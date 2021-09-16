@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/stats/static/css/main.6bd34ee6.chunk.css",
+    "main.js": "/stats/static/js/main.cb7d140b.chunk.js",
+    "main.js.map": "/stats/static/js/main.cb7d140b.chunk.js.map",
+    "runtime-main.js": "/stats/static/js/runtime-main.f20f95b9.js",
+    "runtime-main.js.map": "/stats/static/js/runtime-main.f20f95b9.js.map",
+    "static/css/2.72efb5b3.chunk.css": "/stats/static/css/2.72efb5b3.chunk.css",
+    "static/js/2.310022aa.chunk.js": "/stats/static/js/2.310022aa.chunk.js",
+    "static/js/2.310022aa.chunk.js.map": "/stats/static/js/2.310022aa.chunk.js.map",
+    "index.html": "/stats/index.html",
+    "static/css/2.72efb5b3.chunk.css.map": "/stats/static/css/2.72efb5b3.chunk.css.map",
+    "static/css/main.6bd34ee6.chunk.css.map": "/stats/static/css/main.6bd34ee6.chunk.css.map",
+    "static/js/2.310022aa.chunk.js.LICENSE.txt": "/stats/static/js/2.310022aa.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/stats/static/media/line.39c65dcc.gif",
+    "static/media/theme.css": "/stats/static/media/open-sans-v15-latin-regular.ec806460.woff2",
+    "static/media/primeicons.css": "/stats/static/media/primeicons.fa2c83d2.svg",
+    "static/media/pythonTab.217ab0ad.png": "/stats/static/media/pythonTab.217ab0ad.png",
+    "static/media/u.8406d42f.png": "/stats/static/media/u.8406d42f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f20f95b9.js",
+    "static/css/2.72efb5b3.chunk.css",
+    "static/js/2.310022aa.chunk.js",
+    "static/css/main.6bd34ee6.chunk.css",
+    "static/js/main.cb7d140b.chunk.js"
+  ]
+}
